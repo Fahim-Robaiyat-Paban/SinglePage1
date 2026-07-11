@@ -11,12 +11,12 @@ const Navbar = () => {
                 <div className="nav-right flex gap-35.5">
                     <div className="navmenus">
                         <ul className='flex font-Lato font-[16px] gap-11.25 text-[#1B1B1B] '>
-                            <li><a href="">Home</a></li>
-                            <li><a href="">About</a></li>
-                            <li><a href="">Portfolio</a></li>
-                            <li><a href="">Services</a></li>
-                            <li><a href="">Blog</a></li>
-                            <li><a href="">Testimonial</a></li>
+                            <li className='hover:text-[#06C279]' ><a href="">Home</a></li>
+                            <li className='hover:text-[#06C279]'><a href="">About</a></li>
+                            <li className='hover:text-[#06C279]'><a href="">Portfolio</a></li>
+                            <li className='hover:text-[#06C279]'><a href="">Services</a></li>
+                            <li className='hover:text-[#06C279]'><a href="">Blog</a></li>
+                            <li className='hover:text-[#06C279]'><a href="">Testimonial</a></li>
                         </ul>
                     </div>
                     <div className="register-btn">
